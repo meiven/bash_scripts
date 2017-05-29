@@ -1,0 +1,11 @@
+
++++++ ./0/dilatacion
+--- quitando llamadas antiguas a scorm, scormdriver y KitabooCommunicationManager..
+--- añadiendo nuevas llamadas a scorm, scormdriver y KitabooCommunicationManager..
+--- añadiendo onunload='salirSCOFinalizado()' a <body> en index.html
+--- creando subcarpeta /config
+--- creando subcarpeta /js en /config
+--- creando subcarpeta /communication en /config
+--- copiando archivos scorm.js, scormdriver.js y KitabooCommunicationManager.js ...
+
+--- actualizando todos los archivos scorm.js, scormdriver.js y KitabooCommunicationManager.js ...
