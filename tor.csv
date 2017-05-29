@@ -1,4 +1,5 @@
 #cambio!
+#cambio master
 [ruta];An+;AnON;Tipo recurso;Titulo;Descripción;POSX;POSY;URL o path y nombre del archivo;Perfil;Nivel
 ./0/LE_U00_P008_EX03;;T1;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U00_P008_EX03.zip;;4
 ./0/LE_U00_P011_EX03;;T1;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U00_P011_EX03.zip;;4
@@ -20,4 +21,4 @@
 ./0/LE_U05_P079_EX05;;T6;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U05_P079_EX05.zip;;4
 ./0/LE_U06_P090_EX01;;T7;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U06_P090_EX01.zip;;4
 ./0/LE_U06_P091_EX05;;T7;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U06_P091_EX05.zip;;4
-./0/LE_U06_P093_EX04;;T7;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U06_P093_EX04.zip;;4
+#cambio master ./0/LE_U06_P093_EX04;;T7;indice;[XXXXX-- no existe data0.xml ni data.json --XXXXX];;;;LE_U06_P093_EX04.zip;;4
