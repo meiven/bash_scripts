@@ -2,6 +2,8 @@
 
 ### SCRIPT
 
+#cambio!
+
 total=0
 
 for f in $( find -mindepth 2 -name "*.png" -size +100k ); do
